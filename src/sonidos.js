@@ -75,7 +75,7 @@ class Sonido {
                                         if(data.usuariosEscuchando.size === 0) {
 
                                             if(sonido.mensaje.member.voice.channel) {
-                                                setTimeout(sonido.mensaje.member.voice.channel.leave(), 300000)
+                                                setTimeout(() => sonido.mensaje.member.voice.channel.leave(), 300000)
                                             }
                                         }
                                     }
