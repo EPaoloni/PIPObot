@@ -19,7 +19,6 @@ const prefix = '!';
 //     }
 // });
 //
-// client.login('NzY0NTU5MDczODk4MjY2NjI0.X4IBIA.hLZfj3yksK5i6IoJbrq3QTwnwHI');
 client.login(process.env['TOKEN']).then( () => {
     client.on('message', mensaje => {
 
