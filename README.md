@@ -1,14 +1,13 @@
-# Coscu BOT
+# PIPO BOT
 
-Coscu BOT es un bot para discord escrito en Node.js el cual puede reproducir frases de coscu o escuchar y a través de inteligencia artificial repetir palabras que dijo un usuario
-
+PIPO BOT es un bot para discord escrito en Node.js el cual puede reproducir frases(MP3).
 ## Issues
 
 Cualquier problema pueden abrir un issue en este mismo repo para intentar corregirlo lo más rápido posible
 
 ## Sugerencias
 
-Pueden dejarme idea o sugerencia de lo que les gustaría que tuviera el bot, así como también alguna frase que quieran que agregue (Todas son recortadas de sus streams) :)
+Pueden dejarme idea o sugerencia de lo que les gustaría que tuviera el bot.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
