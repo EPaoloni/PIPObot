@@ -5,7 +5,7 @@ const client = new Discord.Client();
 
 const app = require('./src');
 
-const prefix = '!';
+const prefix = '!s';
 
 // client.on('message', message => {
 //
